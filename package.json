@@ -1,0 +1,18 @@
+{
+  "name": "unity-frida-hacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "frida-fs": "^3.0.1",
+    "frida-inject": "^0.3.2",
+    "frida-mono-api": "0.0.5",
+    "frida-process": "^3.0.1",
+    "fs": "0.0.1-security"
+  }
+}
